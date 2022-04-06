@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-vk-pixel",
+  "version": "1.0.1",
+  "description": "Nuxt vk pixel plugin",
+  "main": "index.js",
+  "author": "Uriy Makarov <makaroff66@yandex.ru>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "vk",
+    "rtrg",
+    "pixel"
+  ],
+  "repository": "https://github.com/makaroff6/nuxt-vk-pixel"
+}
